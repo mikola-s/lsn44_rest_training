@@ -1,0 +1,19 @@
+crate object (method POST without id) =================================
+
+{
+  "article": {
+    "title": "article three title",
+    "description": "article three description",
+    "body": "article three text",
+    "author_id": 1
+  }
+}
+{
+  "article": {
+    "title": "article four title",
+    "description": "article four description",
+    "body": "article four text",
+    "author_id": 2
+  }
+}
+
